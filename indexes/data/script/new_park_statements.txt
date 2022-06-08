@@ -1,0 +1,27 @@
+insert into park values (1, 'Ellis (Samuel) Park', '3520 S Cottage Grove Ave', 'Chicago', 17, '60653', '41.8281357', '-87.6103569'); --Ellis (Samuel) Park
+insert into park values (2, 'Dunbar (Paul Laurence) Park', '300 E 31st St', 'Chicago', 17, '60616', '41.8399244', '-87.6208001'); --Dunbar (Paul Laurence) Park
+insert into park values (3, 'Meyering (William) Park', '7140 S Martin Luther King Dr', 'Chicago', 17, '60619', '41.7644512', '-87.6160017'); --Meyering (William) Park
+insert into park values (4, 'Robert Taylor Park', '39 W 47th St', 'Chicago', 17, '60609', '41.8078170', '-87.6271784'); --Robert Taylor Park
+insert into park values (5, 'Kennicott (Jonathan) Park', '4434 S Lake Park Ave', 'Chicago', 17, '60653', '41.8138876', '-87.5975062'); --Kennicott (Jonathan) Park
+insert into park values (6, 'Gwendolyn Brooks Park', '4542 S Greenwood Ave', 'Chicago', 17, '60653', '41.8117997', '-87.5998136'); --Gwendolyn Brooks Park
+insert into park values (7, 'Armstrong (Lillian Hardin) Park', '4433 S St Lawrence Ave', 'Chicago', 17, '60653', '41.8138809', '-87.6103068'); --Armstrong (Lillian Hardin) Park
+insert into park values (8, 'Mandrake Park', '3858 S Cottage Grove Ave', 'Chicago', 17, '60653', '41.8233375', '-87.6070350'); --Mandrake Park
+insert into park values (9, 'Burnham Park', '1200-5700 S Lake Shore Dr', 'Chicago', 17, '60615', '41.8253531', '-87.5985856'); --Burnham Park
+insert into park values (10, 'Burnham Nature Sanctuary', '1600 E 47th St', 'Chicago', 17, '60615', '41.8119898', '-87.5914491'); --Burnham Nature Sanctuary
+insert into park values (11, 'Promontory Point', '5500 S Lake Shore Dr', 'Chicago', 17, '60615', '41.7956147', '-87.5766735'); --Promontory Point
+insert into park values (12, 'Rainbow Beach Park', '3111 E 77th St', 'Chicago', 17, '60649', '41.7570290', '-87.5501890'); --Rainbow Beach Park
+insert into park values (13, 'South Shore Nature Sanctuary', '7059 S South Shore Dr', 'Chicago', 17, '60649', '41.7680989', '-87.5602881'); --South Shore Nature Sanctuary
+insert into park values (14, 'Prairie Wolf Park', '6310 S Drexel Ave', 'Chicago', 17, '60637', '41.7800102', '-87.6031978'); --Prairie Wolf Park
+insert into park values (15, 'Harris (Harriet) Park', '6200 S Drexel Ave', 'Chicago', 17, '60637', '41.7816839', '-87.6048194'); --Harris (Harriet) Park
+insert into park values (16, 'Mamie Till-Mobley Park', '6404 S Ellis Ave', 'Chicago', 17, '60637', '41.7782516', '-87.6008010'); --Mamie Till-Mobley Park
+insert into park values (17, '65th & Woodlawn Community Garden', '1228 E 65th St', 'Chicago', 17, '60637', '41.7770462', '-87.5961380'); --65th & Woodlawn Community Garden
+insert into park values (18, 'Huckleberry Playground Park', '6200 S Kimbark Ave', 'Chicago', 17, '60637', '41.7821980', '-87.5951340'); --Huckleberry Playground Park
+insert into park values (19, 'Beehive Park', '6156 S Dorchester Ave', 'Chicago', 17, '60637', '41.7825526', '-87.5916374'); --Beehive Park
+insert into park values (20, 'Midway Plaisance Park', '1130 Midway Plaisance', 'Chicago', 17, '60637', '41.7868907', '-87.5939190'); --Midway Plaisance Park
+insert into park values (21, 'Kenwood Community Park', '1330 E 50th St', 'Chicago', 17, '60615', '41.8050427', '-87.5929049'); --Kenwood Community Park
+insert into park values (22, 'Sycamore Park', '5109 S Greenwood Ave', 'Chicago', 17, '60615', '41.8018291', '-87.5993370'); --Sycamore Park
+insert into park values (23, 'Elm Park', '5215 S Woodlawn Ave', 'Chicago', 17, '60615', '41.8003836', '-87.5962611'); --Elm Park
+insert into park values (24, 'Butternut Park', '5324 S Woodlawn Ave', 'Chicago', 17, '60615', '41.7986584', '-87.5969517'); --Butternut Park
+insert into park values (25, 'Nichols (John Fountain) Park', '1355 E 53rd St', 'Chicago', 17, '60615', '41.7980091', '-87.5935416'); --Nichols (John Fountain) Park
+insert into park values (26, 'Harold Washington Park', '5200 S Hyde Park Blvd', 'Chicago', 17, '60615', '41.8017829', '-87.5841558'); --Harold Washington Park
+insert into park values (27, 'Washington (George) Park', '5531 S Martin Luther King Dr', 'Chicago', 17, '60615', '41.7957052', '-87.6107550'); --Washington (George) Park

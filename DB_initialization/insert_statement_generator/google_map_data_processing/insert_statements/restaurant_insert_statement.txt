@@ -1,0 +1,33 @@
+insert into restaurant values ('Strings Ramen Shop Hyde Park', NULL, NULL, '1453 E 53rd St', 'Chicago', 17, '60615', '41.7992630', '-87.5897226'); --Strings Ramen Shop Hyde Park
+insert into restaurant values ('Wingstop', NULL, NULL, '5300 S Dorchester Ave', 'Chicago', 17, '60615', '41.7993069', '-87.5919161'); --Wingstop
+insert into restaurant values ('Eto'o Modern Asian Cuisine', NULL, NULL, '1373 E 53rd St', 'Chicago', 17, '60615', '41.7993513', '-87.5922149'); --Eto'o Modern Asian Cuisine
+insert into restaurant values ('Shinju Sushi', NULL, NULL, '1375 E 53rd St', 'Chicago', 17, '60615', '41.7993791', '-87.5921456'); --Shinju Sushi
+insert into restaurant values ('Dunkin'', NULL, NULL, '1418 E 53rd St Ste 5', 'Chicago', 17, '60615', '41.7998097', '-87.5910376'); --Dunkin'
+insert into restaurant values ('Capital One Café', NULL, NULL, '1465 E 53rd St', 'Chicago', 17, '60615', '41.7994057', '-87.5892372'); --Capital One Café
+insert into restaurant values ('Philz Coffee', NULL, NULL, '1425 E 53rd St', 'Chicago', 17, '60615', '41.7993937', '-87.5906476'); --Philz Coffee
+insert into restaurant values ('Cafe 53', NULL, NULL, '1369 E 53rd St', 'Chicago', 17, '60615', '41.7993168', '-87.5924045'); --Cafe 53
+insert into restaurant values ('Can't Believe It's Not Meat', NULL, NULL, '1368 1/2 E 53rd St', 'Chicago', 17, '60615', '41.7996292', '-87.5923580'); --Can't Believe It's Not Meat
+insert into restaurant values ('Rajun Cajun', NULL, NULL, '1459 E 53rd St', 'Chicago', 17, '60615', '41.7994051', '-87.5894497'); --Rajun Cajun
+insert into restaurant values ('Mellow Yellow Restaurant', NULL, NULL, '1508 E 53rd St', 'Chicago', 17, '60615', '41.7996736', '-87.5886073'); --Mellow Yellow Restaurant
+insert into restaurant values ('Great Steak', NULL, NULL, '5130 S Lake Park Ave', 'Chicago', 17, '60615', '41.8013080', '-87.5882640'); --Great Steak
+insert into restaurant values ('Potbelly Sandwich Shop', NULL, NULL, '5428 S Lake Park Ave', 'Chicago', 17, '60615', '41.7971424', '-87.5881796'); --Potbelly Sandwich Shop
+insert into restaurant values ('Jimmy John's', NULL, NULL, '1519 E 55th St', 'Chicago', 17, '60615', '41.7950567', '-87.5882767'); --Jimmy John's
+insert into restaurant values ('Jet's Pizza', NULL, NULL, '1348 E 55th St', 'Chicago', 17, '60615', '41.7953359', '-87.5930754'); --Jet's Pizza
+insert into restaurant values ('Saucy Porka Hyde Park', NULL, NULL, '1164 E 55th St', 'Chicago', 17, '60615', '41.7952488', '-87.5969977'); --Saucy Porka Hyde Park
+insert into restaurant values ('Roux', NULL, NULL, '1055 E 55th St', 'Chicago', 17, '60615', '41.7948341', '-87.6003897'); --Roux
+insert into restaurant values ('Nella Pizza e Pasta', NULL, NULL, '1125 E 55th St', 'Chicago', 17, '60615', '41.7948780', '-87.5985437'); --Nella Pizza e Pasta
+insert into restaurant values ('Subway', NULL, NULL, '1449 E 57th St', 'Chicago', 17, '60637', '41.7913624', '-87.5896970'); --Subway
+insert into restaurant values ('Salonica Restaurant', NULL, NULL, '1440 E 57th St', 'Chicago', 17, '60637', '41.7916174', '-87.5901139'); --Salonica Restaurant
+insert into restaurant values ('Leona's Pizzeria & Restaurant', NULL, NULL, '1236 E 53rd St', 'Chicago', 17, '60615', '41.7999325', '-87.5952233'); --Leona's Pizzeria & Restaurant
+insert into restaurant values ('Harold's Chicken #14 Hyde Park', NULL, NULL, '1208 E 53rd St', 'Chicago', 17, '60615', '41.8000542', '-87.5960602'); --Harold's Chicken #14 Hyde Park
+insert into restaurant values ('Nicky's Chinese Food', NULL, NULL, '5231 S Woodlawn Ave', 'Chicago', 17, '60615', '41.8000346', '-87.5964117'); --Nicky's Chinese Food
+insert into restaurant values ('14 Parish', NULL, NULL, '1644 E 53rd St', 'Chicago', 17, '60615', '41.7997798', '-87.5848545'); --14 Parish
+insert into restaurant values ('Domino's Pizza', NULL, NULL, '1453 E Hyde Park Blvd', 'Chicago', 17, '60615', '41.8022882', '-87.5897200'); --Domino's Pizza
+insert into restaurant values ('Medici On 57th', NULL, NULL, '1327-1331, 1327 E 57th St', 'Chicago', 17, '60637', '41.7912798', '-87.5937570'); --Medici On 57th
+insert into restaurant values ('Southside Ken Chinese Cuisine', NULL, NULL, '1611 E 55th St', 'Chicago', 17, '60615', '41.7951043', '-87.5861122'); --Southside Ken Chinese Cuisine
+insert into restaurant values ('Ascione Bistro', NULL, NULL, '1500 E 55th St', 'Chicago', 17, '60615', '41.7953227', '-87.5886498'); --Ascione Bistro
+insert into restaurant values ('Five Guys', NULL, NULL, '1456 E 53rd St', 'Chicago', 17, '60615', '41.7996674', '-87.5895320'); --Five Guys
+insert into restaurant values ('Nando's PERi-PERi', NULL, NULL, '1447 E 53rd St', 'Chicago', 17, '60615', '41.7994040', '-87.5899000'); --Nando's PERi-PERi
+insert into restaurant values ('Giordano's', NULL, NULL, '5311 S Blackstone Ave', 'Chicago', 17, '60615', '41.7991135', '-87.5902310'); --Giordano's
+insert into restaurant values ('Valois Restaurant', NULL, NULL, '1518 E 53rd St', 'Chicago', 17, '60615', '41.7997683', '-87.5883172'); --Valois Restaurant
+insert into restaurant values ('Virtue Restaurant', NULL, NULL, '1462 E 53rd St', 'Chicago', 17, '60615', '41.7996669', '-87.5892515'); --Virtue Restaurant

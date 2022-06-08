@@ -1,0 +1,29 @@
+insert into worksite values ('Silverroom', '1506 E 53rd St', 'Chicago', 17, '60615', '41.7997683', '-87.5887580'); --Silverroom
+insert into worksite values ('United States Postal Service', '1510 E 55th St', 'Chicago', 17, '60615', '41.7956780', '-87.5886021'); --United States Postal Service
+insert into worksite values ('The University of Chicago Bookstore', '970 E 58th St', 'Chicago', 17, '60637', '41.7898224', '-87.6014263'); --The University of Chicago Bookstore
+insert into worksite values ('Valley of Jordan Food', '1009 E 53rd St', 'Chicago', 17, '60615', '41.7992761', '-87.6008587'); --Valley of Jordan Food
+insert into worksite values ('Phillip Murray School', '5335 S Kenwood Ave', 'Chicago', 17, '60615', '41.7982087', '-87.5925169'); --Phillip Murray School
+insert into worksite values ('Sophy Hyde Park', '1411 E 53rd St', 'Chicago', 17, '60615', '41.7993353', '-87.5914027'); --Sophy Hyde Park
+insert into worksite values ('PNC Bank', '5100 S Lake Park Ave', 'Chicago', 17, '60615', '41.8022889', '-87.5881068'); --PNC Bank
+insert into worksite values ('Nikki Nails', '1503 E Hyde Park Blvd', 'Chicago', 17, '60615', '41.8022988', '-87.5890799'); --Nikki Nails
+insert into worksite values ('Frontline Distribution International', '5206 S Harper Ave', 'Chicago', 17, '60615', '41.8007690', '-87.5892645'); --Frontline Distribution International
+insert into worksite values ('LA Fitness', '5224 S Lake Park Ave', 'Chicago', 17, '60615', '41.8003174', '-87.5876922'); --LA Fitness
+insert into worksite values ('AT&T Store', '5222 S Lake Park Ave', 'Chicago', 17, '60615', '41.8004471', '-87.5877956'); --AT&T Store
+insert into worksite values ('Hyatt Place Chicago-South/University Medical Center', '5225 S Harper Ave', 'Chicago', 17, '60615', '41.8000944', '-87.5889359'); --Hyatt Place Chicago-South/University Medical Center
+insert into worksite values ('Harper Theater', '5238 S Harper Ave', 'Chicago', 17, '60615', '41.7998717', '-87.5892241'); --Harper Theater
+insert into worksite values ('Ulta Beauty', '5228 S Lake Park Ave', 'Chicago', 17, '60615', '41.7999469', '-87.5878506'); --Ulta Beauty
+insert into worksite values ('Hyde Park Bank', '1525 E 53rd St', 'Chicago', 17, '60615', '41.7994204', '-87.5880921'); --Hyde Park Bank
+insert into worksite values ('AKIRA', '1539 E 53rd St', 'Chicago', 17, '60615', '41.7994027', '-87.5874622'); --AKIRA
+insert into worksite values ('The UPS Store', '1507 E 53rd St', 'Chicago', 17, '60615', '41.7993734', '-87.5888027'); --The UPS Store
+insert into worksite values ('Bank of America Financial Center', '1439 E 53rd St', 'Chicago', 17, '60615', '41.7993405', '-87.5902117'); --Bank of America Financial Center
+insert into worksite values ('Chase Bank', '1204 E 53rd St', 'Chicago', 17, '60615', '41.7999192', '-87.5963220'); --Chase Bank
+insert into worksite values ('Kozminski Community Academy', '936 E 54th St', 'Chicago', 17, '60615', '41.7985262', '-87.6023823'); --Kozminski Community Academy
+insert into worksite values ('The University of Chicago Medical Center', '800 E 55th St', 'Chicago', 17, '60615', '41.7961266', '-87.6052960'); --The University of Chicago Medical Center
+insert into worksite values ('Gerald Ratner Athletics Center', '5530 S Ellis Ave', 'Chicago', 17, '60637', '41.7941667', '-87.6016667'); --Gerald Ratner Athletics Center
+insert into worksite values ('CVS', '1228 E 53rd St', 'Chicago', 17, '60615', '41.7997772', '-87.5946980'); --CVS
+insert into worksite values ('Walgreens', '1554 E 55th St', 'Chicago', 17, '60615', '41.7956991', '-87.5878386'); --Walgreens
+insert into worksite values ('Office Depot', 'At 55th & Lake Park, 5420 S Lake Park Ave', 'Chicago', 17, '60615', '41.7976972', '-87.5877077'); --Office Depot
+insert into worksite values ('John Crerar Library', '5730 S Ellis Ave', 'Chicago', 17, '60637', '41.7905240', '-87.6028540'); --John Crerar Library
+insert into worksite values ('芝加哥大學醫院', '5841 S Maryland Ave', 'Chicago', 17, '60637', '41.7892944', '-87.6039963'); --芝加哥大學醫院
+insert into worksite values ('罗比之家', '5757 S Woodlawn Ave', 'Chicago', 17, '60637', '41.7898178', '-87.5959445'); --罗比之家
+insert into worksite values ('斯马特美术馆', '5550 S Greenwood Ave', 'Chicago', 17, '60637', '41.7934642', '-87.6002004'); --斯马特美术馆

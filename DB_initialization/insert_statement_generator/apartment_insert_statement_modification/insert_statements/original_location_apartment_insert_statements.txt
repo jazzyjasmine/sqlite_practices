@@ -1,0 +1,20 @@
+insert into location values (NULL, '5035 S East End Ave', 'Chicago', 17, '60615', '41.80343920615073', '-87.58488200967082'); -- regents park
+insert into location values (NULL, '1616 E 56th St', 'Chicago', 17, '60637', '41.79385121634259', '-87.58562495492858'); -- solstice on the park
+insert into location values (NULL, '1642 E 56th St', 'Chicago', 17, '60637', '41.79376263507103', '-87.5846372657446'); -- windermere house
+insert into location values (NULL, '5454 South Shore Drive', 'Chicago', 17, '60615', '41.7965566423378', '-87.5815163936166'); -- shoreland
+insert into location values (NULL, '5220 South Drexel Avenue', 'Chicago', 17, '60615', '41.79995290691353', '-87.60414260832023'); -- drexel grand
+insert into location values (NULL, '5252 S Cornell Ave', 'Chicago', 17, '60615', '41.80009501672433', '-87.58643805414417'); -- 5252
+insert into location values (NULL, '5500 S Shore Dr', 'Chicago', 17, '60637', '41.79491721321038', '-87.58066710163466'); -- TLC: The Flamingo Apartments
+insert into location values (NULL, '4726-4740 South Woodlawn Ave', 'Chicago', 17, '60615', '41.80871539532777', '-87.59706865291008'); -- woodlawn terrace
+insert into location values (NULL, '5326 S Cornell Ave', 'Chicago', 17, '60615', '41.798887321834144', '-87.58576219463872'); -- TLC: The Victorian Apartments
+insert into location values (NULL, '5496 S Hyde Park Blvd', 'Chicago', 17, '60615', '41.79566862642122', '-87.584193020704'); -- TLC: Mayfair apartments
+insert into location values (NULL, '5501-5527 S Everett Ave', 'Chicago', 17, '60637', '41.795117632983846', '-87.58233839491412'); -- Tricap: Everett Hyde Park
+insert into location values (NULL, '5801-5811 S Dorchester Ave', 'Chicago', 17, '60637', '41.7896752425938', '-87.59133839298691'); -- Cloisters
+insert into location values (NULL, '5307 S Hyde Park Blvd', 'Chicago', 17, '60615', '41.79954101668182', '-87.58347076319335'); -- The Del Prado
+insert into location values (NULL, '5100 S Cornell Ave', 'Chicago', 17, '60615', '41.80222831522195', '-87.5867618949141'); -- TLC: Scholars Corner Apartments
+insert into location values (NULL, '5550 S Dorchester Ave', 'Chicago', 17, '60637', '41.79385412519156', '-87.59206423641572'); -- laramar: 5550 S Dorchester
+insert into location values (NULL, '1606 E Hyde Park Blvd', 'Chicago', 17, '60615', '41.802782119389576', '-87.58628425354159'); -- algonquin
+insert into location values (NULL, '5105 S Harper Ave', 'Chicago', 17, '60615', '41.80227521042444', '-87.58841403657145'); -- city hyde park
+insert into location values (NULL, '1330 E 53rd St', 'Chicago', 17, '60615', '41.799790146373745', '-87.5936274236628'); -- peakmade: vue53
+insert into location values (NULL, '5140 S Hyde Park Blvd', 'Chicago', 17, '60615', '41.80166590218367', '-87.58502999298621'); -- air: Hyde Park Tower
+insert into location values (NULL, '5540 S Hyde Park Blvd', 'Chicago', 17, '60637', '41.79422394244561', '-87.5842135813022'); -- 3l living: 5540 S Hyde Park Blvd

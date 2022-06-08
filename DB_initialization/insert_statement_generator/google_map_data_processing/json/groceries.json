@@ -1,0 +1,445 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -87.6160697, 41.8245943 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4129430890507042598",
+      "Location" : {
+        "Address" : "3857 S Martin Luther King Dr, Chicago, IL 60653美国",
+        "Business Name" : "Mariano's",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8245943",
+          "Longitude" : "-87.6160697"
+        }
+      },
+      "Published" : "2022-05-06T07:34:28Z",
+      "Title" : "Mariano's",
+      "Updated" : "2022-05-06T07:34:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5876613, 41.7582907 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13419508228385528729",
+      "Location" : {
+        "Address" : "7530 S Stony Is Ave, Chicago, IL 60649美国",
+        "Business Name" : "Jewel-Osco",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7582907",
+          "Longitude" : "-87.5876613"
+        }
+      },
+      "Published" : "2022-05-06T07:33:51Z",
+      "Title" : "Jewel-Osco",
+      "Updated" : "2022-05-06T07:33:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5754820, 41.7664169 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5289049333631664575",
+      "Location" : {
+        "Address" : "2016 E 71st St, Chicago, IL 60649美国",
+        "Business Name" : "Jeffery Big Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7664169",
+          "Longitude" : "-87.5754820"
+        }
+      },
+      "Published" : "2022-05-06T07:33:37Z",
+      "Title" : "Jeffery Big Market",
+      "Updated" : "2022-05-06T07:33:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5823931, 41.7663979 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17538709257805816249",
+      "Location" : {
+        "Address" : "1724 E 71st St, Chicago, IL 60649美国",
+        "Business Name" : "Big Salem's Food Mart",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7663979",
+          "Longitude" : "-87.5823931"
+        }
+      },
+      "Published" : "2022-05-06T07:33:31Z",
+      "Title" : "Big Salem's Food Mart",
+      "Updated" : "2022-05-06T07:33:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6142643, 41.7797319 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2431801510360437924",
+      "Location" : {
+        "Address" : "6319 S Vernon Ave, Chicago, IL 60637美国",
+        "Business Name" : "Super Fair Foods",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7797319",
+          "Longitude" : "-87.6142643"
+        }
+      },
+      "Published" : "2022-05-06T07:33:26Z",
+      "Title" : "Super Fair Foods",
+      "Updated" : "2022-05-06T07:33:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6167095, 41.7806454 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13052789901018411377",
+      "Location" : {
+        "Address" : "344 E 63rd St, Chicago, IL 60637美国",
+        "Business Name" : "Save A Lot",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7806454",
+          "Longitude" : "-87.6167095"
+        }
+      },
+      "Published" : "2022-05-06T07:33:19Z",
+      "Title" : "Save A Lot",
+      "Updated" : "2022-05-06T07:33:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6152176, 41.7777288 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17483471326533586124",
+      "Location" : {
+        "Address" : "6421 S King Dr, Chicago, IL 60637美国",
+        "Business Name" : "King Drive Grocery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7777288",
+          "Longitude" : "-87.6152176"
+        }
+      },
+      "Published" : "2022-05-06T07:32:56Z",
+      "Title" : "King Drive Grocery",
+      "Updated" : "2022-05-06T07:32:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6060947, 41.8152669 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10738150050968277559",
+      "Location" : {
+        "Address" : "4353 S Cottage Grove Ave, Chicago, IL 60653美国",
+        "Business Name" : "Tony’s Stop & Save",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8152669",
+          "Longitude" : "-87.6060947"
+        }
+      },
+      "Published" : "2022-05-06T07:32:41Z",
+      "Title" : "Tony’s Stop & Save",
+      "Updated" : "2022-05-06T07:32:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5982571, 41.8162115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10485283426949832719",
+      "Location" : {
+        "Address" : "4301 S Lake Park Ave, Chicago, IL 60653美国",
+        "Business Name" : "One Stop Food & Liquors",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8162115",
+          "Longitude" : "-87.5982571"
+        }
+      },
+      "Published" : "2022-05-06T07:32:34Z",
+      "Title" : "One Stop Food & Liquors",
+      "Updated" : "2022-05-06T07:32:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5985031, 41.7919731 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3195680878524173030",
+      "Location" : {
+        "Address" : "Bartlett Dining Commons, Chicago, IL 60637美国",
+        "Business Name" : "Maroon Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7919731",
+          "Longitude" : "-87.5985031"
+        }
+      },
+      "Published" : "2022-05-06T07:32:25Z",
+      "Title" : "Maroon Market",
+      "Updated" : "2022-05-06T07:32:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5851026, 41.7951087 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16562318692992193851",
+      "Location" : {
+        "Address" : "1635 E 55th St, Chicago, IL 60615美国",
+        "Business Name" : "Open Produce",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7951087",
+          "Longitude" : "-87.5851026"
+        }
+      },
+      "Published" : "2022-05-06T07:32:06Z",
+      "Title" : "Open Produce",
+      "Updated" : "2022-05-06T07:32:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5894593, 41.7914107 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3363778913332641652",
+      "Location" : {
+        "Address" : "1455 E 57th St, Chicago, IL 60637美国",
+        "Business Name" : "Harper Foods",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7914107",
+          "Longitude" : "-87.5894593"
+        }
+      },
+      "Published" : "2022-05-06T07:32:02Z",
+      "Title" : "Harper Foods",
+      "Updated" : "2022-05-06T07:32:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6067688, 41.8087674 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17813278243189736908",
+      "Location" : {
+        "Address" : "4720 S Cottage Grove Ave, Chicago, IL 60615美国",
+        "Business Name" : "Walmart Neighborhood Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8087674",
+          "Longitude" : "-87.6067688"
+        }
+      },
+      "Published" : "2022-05-06T07:31:47Z",
+      "Title" : "Walmart Neighborhood Market",
+      "Updated" : "2022-05-06T07:31:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6027323, 41.8017097 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3263612141593025600",
+      "Location" : {
+        "Address" : "5117 S Ingleside Ave, Chicago, IL 60615美国",
+        "Business Name" : "Ingleside Foods",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8017097",
+          "Longitude" : "-87.6027323"
+        }
+      },
+      "Published" : "2022-05-06T07:31:37Z",
+      "Title" : "Ingleside Foods",
+      "Updated" : "2022-05-06T07:31:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6062928, 41.7851180 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7851471946246582783",
+      "Location" : {
+        "Address" : "6014 S Cottage Grove Ave, Chicago, IL 60637美国",
+        "Business Name" : "Jewel-Osco",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7851180",
+          "Longitude" : "-87.6062928"
+        }
+      },
+      "Published" : "2022-05-06T07:31:21Z",
+      "Title" : "Jewel-Osco",
+      "Updated" : "2022-05-06T07:31:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6008587, 41.7992761 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13595181539440101008",
+      "Location" : {
+        "Address" : "1009 E 53rd St, Chicago, IL 60615美国",
+        "Business Name" : "Valley of Jordan Food",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7992761",
+          "Longitude" : "-87.6008587"
+        }
+      },
+      "Published" : "2022-05-06T07:31:13Z",
+      "Title" : "Valley of Jordan Food",
+      "Updated" : "2022-05-06T07:31:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5954805, 41.8000110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14878568264003252617",
+      "Location" : {
+        "Address" : "1226 E 53rd St, Chicago, IL 60615美国",
+        "Business Name" : "Hyde Park Produce Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8000110",
+          "Longitude" : "-87.5954805"
+        }
+      },
+      "Published" : "2022-05-06T07:31:07Z",
+      "Title" : "Hyde Park Produce Market",
+      "Updated" : "2022-05-06T07:31:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5932452, 41.7997533 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4742376245209793375",
+      "Location" : {
+        "Address" : "1346 E 53rd St, Chicago, IL 60615美国",
+        "Business Name" : "Target Grocery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7997533",
+          "Longitude" : "-87.5932452"
+        }
+      },
+      "Published" : "2022-05-06T07:31:02Z",
+      "Title" : "Target Grocery",
+      "Updated" : "2022-05-06T07:31:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5883840, 41.7963960 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6411728190841454383",
+      "Location" : {
+        "Address" : "1528 E 55th St, Chicago, IL 60615美国",
+        "Business Name" : "Trader Joe's",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7963960",
+          "Longitude" : "-87.5883840"
+        }
+      },
+      "Published" : "2022-05-06T07:30:50Z",
+      "Title" : "Trader Joe's",
+      "Updated" : "2022-05-06T07:30:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5881268, 41.8022254 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15775612886449906006",
+      "Location" : {
+        "Address" : "5102 S Lake Park Ave, Chicago, IL 60615美国",
+        "Business Name" : "Marshalls",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8022254",
+          "Longitude" : "-87.5881268"
+        }
+      },
+      "Published" : "2022-05-06T07:30:25Z",
+      "Title" : "Marshalls",
+      "Updated" : "2022-05-06T07:30:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5880826, 41.8018032 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10990117089539480824",
+      "Location" : {
+        "Address" : "5118 S Lake Park Ave, Chicago, IL 60615美国",
+        "Business Name" : "Whole Foods Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8018032",
+          "Longitude" : "-87.5880826"
+        }
+      },
+      "Published" : "2022-05-06T07:30:19Z",
+      "Title" : "Whole Foods Market",
+      "Updated" : "2022-05-06T07:30:19Z"
+    },
+    "type" : "Feature"
+  } ]
+}

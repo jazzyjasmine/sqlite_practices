@@ -1,0 +1,21 @@
+insert into grocery values (NULL, 'Mariano's', NULL, '3857 S Martin Luther King Dr', 'Chicago', 17, '60653', '41.8245943', '-87.6160697'); --Mariano's
+insert into grocery values (NULL, 'Jewel-Osco', NULL, '7530 S Stony Is Ave', 'Chicago', 17, '60649', '41.7582907', '-87.5876613'); --Jewel-Osco
+insert into grocery values (NULL, 'Jeffery Big Market', NULL, '2016 E 71st St', 'Chicago', 17, '60649', '41.7664169', '-87.5754820'); --Jeffery Big Market
+insert into grocery values (NULL, 'Big Salem's Food Mart', NULL, '1724 E 71st St', 'Chicago', 17, '60649', '41.7663979', '-87.5823931'); --Big Salem's Food Mart
+insert into grocery values (NULL, 'Super Fair Foods', NULL, '6319 S Vernon Ave', 'Chicago', 17, '60637', '41.7797319', '-87.6142643'); --Super Fair Foods
+insert into grocery values (NULL, 'Save A Lot', NULL, '344 E 63rd St', 'Chicago', 17, '60637', '41.7806454', '-87.6167095'); --Save A Lot
+insert into grocery values (NULL, 'King Drive Grocery', NULL, '6421 S King Dr', 'Chicago', 17, '60637', '41.7777288', '-87.6152176'); --King Drive Grocery
+insert into grocery values (NULL, 'Tony’s Stop & Save', NULL, '4353 S Cottage Grove Ave', 'Chicago', 17, '60653', '41.8152669', '-87.6060947'); --Tony’s Stop & Save
+insert into grocery values (NULL, 'One Stop Food & Liquors', NULL, '4301 S Lake Park Ave', 'Chicago', 17, '60653', '41.8162115', '-87.5982571'); --One Stop Food & Liquors
+insert into grocery values (NULL, 'Maroon Market', NULL, 'Bartlett Dining Commons', 'Chicago', 17, '60637', '41.7919731', '-87.5985031'); --Maroon Market
+insert into grocery values (NULL, 'Open Produce', NULL, '1635 E 55th St', 'Chicago', 17, '60615', '41.7951087', '-87.5851026'); --Open Produce
+insert into grocery values (NULL, 'Harper Foods', NULL, '1455 E 57th St', 'Chicago', 17, '60637', '41.7914107', '-87.5894593'); --Harper Foods
+insert into grocery values (NULL, 'Walmart Neighborhood Market', NULL, '4720 S Cottage Grove Ave', 'Chicago', 17, '60615', '41.8087674', '-87.6067688'); --Walmart Neighborhood Market
+insert into grocery values (NULL, 'Ingleside Foods', NULL, '5117 S Ingleside Ave', 'Chicago', 17, '60615', '41.8017097', '-87.6027323'); --Ingleside Foods
+insert into grocery values (NULL, 'Jewel-Osco', NULL, '6014 S Cottage Grove Ave', 'Chicago', 17, '60637', '41.7851180', '-87.6062928'); --Jewel-Osco
+insert into grocery values (NULL, 'Valley of Jordan Food', NULL, '1009 E 53rd St', 'Chicago', 17, '60615', '41.7992761', '-87.6008587'); --Valley of Jordan Food
+insert into grocery values (NULL, 'Hyde Park Produce Market', NULL, '1226 E 53rd St', 'Chicago', 17, '60615', '41.8000110', '-87.5954805'); --Hyde Park Produce Market
+insert into grocery values (NULL, 'Target Grocery', NULL, '1346 E 53rd St', 'Chicago', 17, '60615', '41.7997533', '-87.5932452'); --Target Grocery
+insert into grocery values (NULL, 'Trader Joe's', NULL, '1528 E 55th St', 'Chicago', 17, '60615', '41.7963960', '-87.5883840'); --Trader Joe's
+insert into grocery values (NULL, 'Marshalls', NULL, '5102 S Lake Park Ave', 'Chicago', 17, '60615', '41.8022254', '-87.5881268'); --Marshalls
+insert into grocery values (NULL, 'Whole Foods Market', NULL, '5118 S Lake Park Ave', 'Chicago', 17, '60615', '41.8018032', '-87.5880826'); --Whole Foods Market

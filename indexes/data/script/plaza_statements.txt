@@ -1,0 +1,8 @@
+insert into plaza values ('Kimbark', 'S Woodlawn Ave & E 53rd St', 'Chicago', 17, '60615', '41.799563130758024', '-87.59663266740105'); -- Plaza: kimbark plaza
+insert into plaza values ('Washington Park', 'S Cottage Grove Ave & E 51st St', 'Chicago', 17, '60615', '41.80380062260185', '-87.60720024008845'); -- Plaza: washington park plaza
+insert into plaza values ('Lake Park', '1400 E 47th St', 'Chicago', 17, '60653', '41.8100122942459', '-87.5920537329874'); -- Plaza: Lake Park plaza
+insert into plaza values ('Chinatown Square', '2133 S China PI', 'Chicago', 17, '60616', '41.85442622674233', '-87.63349989407573'); -- Plaza: chinatown square plaza
+insert into plaza values ('Park View', '3000 S Halsted St', 'Chicago', 17, '60608', '41.83976512441874', '-87.64716829705475'); -- park view plaza
+insert into plaza values ('Jeffery', 'S Jeffery Blvd', 'Chicago', 17, '60649', '41.76634926578937', '-87.57446024200789'); -- jeffery plaza
+insert into plaza values ('Horizon', '2660 E 79th St', 'Chicago', 17, '60649', '41.75230524918482', '-87.5591758677342'); -- horizon plaza
+insert into plaza values ('Bishop', '1400 W 47th St', 'Chicago', 17, '60609', '41.80911820042759', '-87.66020010851271'); -- Bishop plaza

@@ -1,0 +1,646 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -87.6103569, 41.8281357 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12686781062950932419",
+      "Location" : {
+        "Address" : "3520 S Cottage Grove Ave, Chicago, IL 60653美国",
+        "Business Name" : "Ellis (Samuel) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8281357",
+          "Longitude" : "-87.6103569"
+        }
+      },
+      "Published" : "2022-05-06T07:11:26Z",
+      "Title" : "Ellis (Samuel) Park",
+      "Updated" : "2022-05-06T07:11:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6208001, 41.8399244 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4472759802290615660",
+      "Location" : {
+        "Address" : "300 E 31st St, Chicago, IL 60616美国",
+        "Business Name" : "Dunbar (Paul Laurence) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8399244",
+          "Longitude" : "-87.6208001"
+        }
+      },
+      "Published" : "2022-05-06T07:11:17Z",
+      "Title" : "Dunbar (Paul Laurence) Park",
+      "Updated" : "2022-05-06T07:11:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6160017, 41.7644512 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10160282306661960450",
+      "Location" : {
+        "Address" : "7140 S Martin Luther King Dr, Chicago, IL 60619美国",
+        "Business Name" : "Meyering (William) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7644512",
+          "Longitude" : "-87.6160017"
+        }
+      },
+      "Published" : "2022-05-06T07:10:48Z",
+      "Title" : "Meyering (William) Park",
+      "Updated" : "2022-05-06T07:10:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6271784, 41.8078170 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1636520460151341479",
+      "Location" : {
+        "Address" : "39 W 47th St, Chicago, IL 60609美国",
+        "Business Name" : "Robert Taylor Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8078170",
+          "Longitude" : "-87.6271784"
+        }
+      },
+      "Published" : "2022-05-06T07:10:34Z",
+      "Title" : "Robert Taylor Park",
+      "Updated" : "2022-05-06T07:10:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5975062, 41.8138876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2435447614140968712",
+      "Location" : {
+        "Address" : "4434 S Lake Park Ave, Chicago, IL 60653美国",
+        "Business Name" : "Kennicott (Jonathan) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8138876",
+          "Longitude" : "-87.5975062"
+        }
+      },
+      "Published" : "2022-05-06T07:10:16Z",
+      "Title" : "Kennicott (Jonathan) Park",
+      "Updated" : "2022-05-06T07:10:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5998136, 41.8117997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1140397503473282876",
+      "Location" : {
+        "Address" : "4542 S Greenwood Ave, Chicago, IL 60653美国",
+        "Business Name" : "Gwendolyn Brooks Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8117997",
+          "Longitude" : "-87.5998136"
+        }
+      },
+      "Published" : "2022-05-06T07:10:13Z",
+      "Title" : "Gwendolyn Brooks Park",
+      "Updated" : "2022-05-06T07:10:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6103068, 41.8138809 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1934365429993728854",
+      "Location" : {
+        "Address" : "4433 S St Lawrence Ave, Chicago, IL 60653美国",
+        "Business Name" : "Armstrong (Lillian Hardin) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8138809",
+          "Longitude" : "-87.6103068"
+        }
+      },
+      "Published" : "2022-05-06T07:10:07Z",
+      "Title" : "Armstrong (Lillian Hardin) Park",
+      "Updated" : "2022-05-06T07:10:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6070350, 41.8233375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13415241437408919419",
+      "Location" : {
+        "Address" : "3858 S Cottage Grove Ave, Chicago, IL 60653美国",
+        "Business Name" : "Mandrake Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8233375",
+          "Longitude" : "-87.6070350"
+        }
+      },
+      "Published" : "2022-05-06T07:10:02Z",
+      "Title" : "Mandrake Park",
+      "Updated" : "2022-05-06T07:10:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5985856, 41.8253531 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12752547982277306696",
+      "Location" : {
+        "Address" : "1200-5700 S Lake Shore Dr, Chicago, IL 60615美国",
+        "Business Name" : "博纳海姆公园",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8253531",
+          "Longitude" : "-87.5985856"
+        }
+      },
+      "Published" : "2022-05-06T07:09:58Z",
+      "Title" : "博纳海姆公园",
+      "Updated" : "2022-05-06T07:09:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5914491, 41.8119898 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3656457044727122195",
+      "Location" : {
+        "Address" : "1600 E 47th St, Chicago, IL 60615美国",
+        "Business Name" : "Burnham Nature Sanctuary",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8119898",
+          "Longitude" : "-87.5914491"
+        }
+      },
+      "Published" : "2022-05-06T07:09:50Z",
+      "Title" : "Burnham Nature Sanctuary",
+      "Updated" : "2022-05-06T07:09:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5766735, 41.7956147 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5531318753541021760",
+      "Location" : {
+        "Address" : "5500 S Lake Shore Dr, Chicago, IL 60615美国",
+        "Business Name" : "Promontory Point",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7956147",
+          "Longitude" : "-87.5766735"
+        }
+      },
+      "Published" : "2022-05-06T07:09:23Z",
+      "Title" : "Promontory Point",
+      "Updated" : "2022-05-06T07:09:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5501890, 41.7570290 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6340352108451750725",
+      "Location" : {
+        "Address" : "3111 E 77th St, Chicago, IL 60649美国",
+        "Business Name" : "彩虹湖滩公园",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7570290",
+          "Longitude" : "-87.5501890"
+        }
+      },
+      "Published" : "2022-05-06T07:09:11Z",
+      "Title" : "彩虹湖滩公园",
+      "Updated" : "2022-05-06T07:09:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5602881, 41.7680989 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13741993542541098540",
+      "Location" : {
+        "Address" : "7059 S South Shore Dr, Chicago, IL 60649美国",
+        "Business Name" : "South Shore Nature Sanctuary",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7680989",
+          "Longitude" : "-87.5602881"
+        }
+      },
+      "Published" : "2022-05-06T07:09:05Z",
+      "Title" : "South Shore Nature Sanctuary",
+      "Updated" : "2022-05-06T07:09:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6031978, 41.7800102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9518100879113142718",
+      "Location" : {
+        "Address" : "6310 S Drexel Ave, Chicago, IL 60637美国",
+        "Business Name" : "Prairie Wolf Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7800102",
+          "Longitude" : "-87.6031978"
+        }
+      },
+      "Published" : "2022-05-06T07:08:29Z",
+      "Title" : "Prairie Wolf Park",
+      "Updated" : "2022-05-06T07:08:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6048194, 41.7816839 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12544772951103571587",
+      "Location" : {
+        "Address" : "6200 S Drexel Ave, Chicago, IL 60637美国",
+        "Business Name" : "Harris (Harriet) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7816839",
+          "Longitude" : "-87.6048194"
+        }
+      },
+      "Published" : "2022-05-06T07:08:24Z",
+      "Title" : "Harris (Harriet) Park",
+      "Updated" : "2022-05-06T07:08:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6008010, 41.7782516 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2641711558528174609",
+      "Location" : {
+        "Address" : "6404 S Ellis Ave, Chicago, IL 60637美国",
+        "Business Name" : "Mamie Till-Mobley Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7782516",
+          "Longitude" : "-87.6008010"
+        }
+      },
+      "Published" : "2022-05-06T07:08:17Z",
+      "Title" : "Mamie Till-Mobley Park",
+      "Updated" : "2022-05-06T07:08:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5961380, 41.7770462 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8730138854222964262",
+      "Location" : {
+        "Address" : "1228 E 65th St, Chicago, IL 60637美国",
+        "Business Name" : "65th & Woodlawn Community Garden",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7770462",
+          "Longitude" : "-87.5961380"
+        }
+      },
+      "Published" : "2022-05-06T07:08:12Z",
+      "Title" : "65th & Woodlawn Community Garden",
+      "Updated" : "2022-05-06T07:08:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5949905, 41.7773352 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Moccasin+Ranch+Playlot+Park,+6446+S+Kimbark+Ave,+Chicago,+IL+60637&ftid=0x880e291e666813c3:0x2684047d5d378cf6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "41.7773352",
+          "Longitude" : "-87.5949905"
+        }
+      },
+      "Published" : "2022-05-06T07:08:08Z",
+      "Title" : "Moccasin Ranch Playlot Park, 6446 S Kimbark Ave, Chicago, IL 60637",
+      "Updated" : "2022-05-06T07:08:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5951340, 41.7821980 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6540661943418235649",
+      "Location" : {
+        "Address" : "6200 S Kimbark Ave, Chicago, IL 60637美国",
+        "Business Name" : "Huckleberry Playground Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7821980",
+          "Longitude" : "-87.5951340"
+        }
+      },
+      "Published" : "2022-05-06T07:07:53Z",
+      "Title" : "Huckleberry Playground Park",
+      "Updated" : "2022-05-06T07:07:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5916374, 41.7825526 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8299594869611088472",
+      "Location" : {
+        "Address" : "6156 S Dorchester Ave, Chicago, IL 60637美国",
+        "Business Name" : "Beehive Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7825526",
+          "Longitude" : "-87.5916374"
+        }
+      },
+      "Published" : "2022-05-06T07:07:48Z",
+      "Title" : "Beehive Park",
+      "Updated" : "2022-05-06T07:07:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5939190, 41.7868907 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=549460631739122074",
+      "Location" : {
+        "Address" : "1130 Midway Plaisance, Chicago, IL 60637美国",
+        "Business Name" : "大道乐园",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7868907",
+          "Longitude" : "-87.5939190"
+        }
+      },
+      "Published" : "2022-05-06T07:07:37Z",
+      "Title" : "大道乐园",
+      "Updated" : "2022-05-06T07:07:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5929049, 41.8050427 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7243021226543240105",
+      "Location" : {
+        "Address" : "1330 E 50th St, Chicago, IL 60615美国",
+        "Business Name" : "Kenwood Community Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8050427",
+          "Longitude" : "-87.5929049"
+        }
+      },
+      "Published" : "2022-05-06T07:07:24Z",
+      "Title" : "Kenwood Community Park",
+      "Updated" : "2022-05-06T07:07:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5942861, 41.8030541 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1455980290806409073",
+      "Location" : {
+        "Address" : "美国 Illinois, Chicago, 邮政编码: 60615",
+        "Business Name" : "Madison Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8030541",
+          "Longitude" : "-87.5942861"
+        }
+      },
+      "Published" : "2022-05-06T07:07:21Z",
+      "Title" : "Madison Park",
+      "Updated" : "2022-05-06T07:07:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5993370, 41.8018291 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=179943402756779211",
+      "Location" : {
+        "Address" : "5109 S Greenwood Ave, Chicago, IL 60615美国",
+        "Business Name" : "Sycamore Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8018291",
+          "Longitude" : "-87.5993370"
+        }
+      },
+      "Published" : "2022-05-06T07:07:15Z",
+      "Title" : "Sycamore Park",
+      "Updated" : "2022-05-06T07:07:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5962611, 41.8003836 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10074475286506620113",
+      "Location" : {
+        "Address" : "5215 S Woodlawn Ave, Chicago, IL 60615美国",
+        "Business Name" : "Elm Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8003836",
+          "Longitude" : "-87.5962611"
+        }
+      },
+      "Published" : "2022-05-06T07:07:07Z",
+      "Title" : "Elm Park",
+      "Updated" : "2022-05-06T07:07:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5969517, 41.7986584 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14581044124915404521",
+      "Location" : {
+        "Address" : "5324 S Woodlawn Ave, Chicago, IL 60615美国",
+        "Business Name" : "Butternut Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7986584",
+          "Longitude" : "-87.5969517"
+        }
+      },
+      "Published" : "2022-05-06T07:07:02Z",
+      "Title" : "Butternut Park",
+      "Updated" : "2022-05-06T07:07:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5900898, 41.7983973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Spruce+Park,+Chicago,+IL+60615&ftid=0x880e296d9428198b:0x3e9a289ab2c3858c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "41.7983973",
+          "Longitude" : "-87.5900898"
+        }
+      },
+      "Published" : "2022-05-06T07:06:58Z",
+      "Title" : "Spruce Park, Chicago, IL 60615",
+      "Updated" : "2022-05-06T07:06:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5935416, 41.7980091 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14525838053906801053",
+      "Location" : {
+        "Address" : "1355 E 53rd St, Chicago, IL 60615美国",
+        "Business Name" : "Nichols (John Fountain) Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7980091",
+          "Longitude" : "-87.5935416"
+        }
+      },
+      "Published" : "2022-05-06T07:06:45Z",
+      "Title" : "Nichols (John Fountain) Park",
+      "Updated" : "2022-05-06T07:06:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5841558, 41.8017829 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12256948394488704360",
+      "Location" : {
+        "Address" : "5200 S Hyde Park Blvd, Chicago, IL 60615美国",
+        "Business Name" : "Harold Washington Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8017829",
+          "Longitude" : "-87.5841558"
+        }
+      },
+      "Published" : "2022-05-06T07:06:36Z",
+      "Title" : "Harold Washington Park",
+      "Updated" : "2022-05-06T07:06:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6107550, 41.7957052 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2819600875645274190",
+      "Location" : {
+        "Address" : "5531 S Martin Luther King Dr, Chicago, IL 60615美国",
+        "Business Name" : "华盛顿公园",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.7957052",
+          "Longitude" : "-87.6107550"
+        }
+      },
+      "Published" : "2022-05-06T07:06:31Z",
+      "Title" : "华盛顿公园",
+      "Updated" : "2022-05-06T07:06:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.5782530, 41.7832522 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jackson+Park,+%E8%8A%9D%E5%8A%A0%E5%93%A5%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E&ftid=0x880e29a831f802fd:0x3a9250247f87b197",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "41.7832522",
+          "Longitude" : "-87.5782530"
+        }
+      },
+      "Published" : "2022-05-06T07:06:22Z",
+      "Title" : "Jackson Park, 芝加哥伊利诺伊州",
+      "Updated" : "2022-05-06T07:06:22Z"
+    },
+    "type" : "Feature"
+  } ]
+}
